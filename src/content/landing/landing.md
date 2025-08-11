@@ -1,10 +1,10 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Welcome 👋 I'm a student at the [University of Toronto](https://www.utoronto.ca/) specializing in _Quantitative Finance_ (Statistics) and _Finance_ (Management). I recently completed a Data Scientist internship with the Bank of Nova Scotia and I'm passionate about **Data**, **Software Development**, and **Financial Modeling**.
 
 I'm currently working with,
 
--   React (TS)
--   NodeJS
+-   React (JS)
+-   SQL
 -   Flask (Python)
 -   HTML/SCSS
--   WebSockets
--   GraphQL
+-   PowerBI
+-   R
