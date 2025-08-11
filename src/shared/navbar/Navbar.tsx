@@ -26,7 +26,7 @@ export const Navbar: FC = () => {
                     <LogoType text={configs.common.logoType} />
                     <Flex alignItems="center" display={{ base: "none", md: "flex" }}>
                         <HStack spacing="8" mr="6">
-                            <Button
+                            {/* <Button
                                 variant="link"
                                 color={navItemColor}
                                 textDecoration="underline"
@@ -37,7 +37,7 @@ export const Navbar: FC = () => {
                                 data-aos-delay="200"
                             >
                                 Work
-                            </Button>
+                            </Button> */}
                             <Button
                                 variant="link"
                                 color={navItemColor}

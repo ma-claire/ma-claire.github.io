@@ -67,4 +67,4 @@ All the images are in `public/assets`.
 [![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
+- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Claire Ma</a>
