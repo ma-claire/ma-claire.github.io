@@ -9,10 +9,10 @@
     "pronunciation": "/(zihan)/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
-    "email": "claire6ma6can6@gmail.com",
+    "email": "claire.ma@mail.utoronto.ca",
     "linkedin": "https://www.linkedin.com/in/zihan--ma/",
     "github": "https://github.com/ma-claire",
-    "resume": "https://docs.google.com/document/d/1yvU_fLe7QP3bK_05Z82Y6MQOB5bZklB9sR32adeqrb8/edit?usp=sharing",
+    "resume": "https://drive.google.com/file/d/1_wAK_ObWibZE1Dq5FtKSCOuqR7xhvh0v/view?usp=sharing",
     "socials": [
         {
             "type": "linkedin",
@@ -24,7 +24,7 @@
         },
         {
             "type": "mail",
-            "link": "mailto:claire6ma6can6@gmail.com"
+            "link": "mailto:claire.ma@mail.utoronto.ca"
         }
     ]
 }
